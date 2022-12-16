@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: crimson;
+}
+
+.users{
+    text-align: center;
+    font-size: 1.2rem;
+    color: forestgreen;
+}
+ 
+.img{
+    border: 2px solid red;
+    border-radius: 10px;
+    width: 200px;
+}
